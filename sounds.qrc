@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/sounds/background.wav</file>
+        <file>resources/sounds/knock_on_the_door.wav</file>
+        <file>resources/sounds/door_opening.wav</file>
+        <file>resources/sounds/keys.wav</file>
+        <file>resources/sounds/fail_Windows.wav</file>
+    </qresource>
+</RCC>

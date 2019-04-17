@@ -1,0 +1,31 @@
+{
+  "background": ":/resources/levels/level_01.png",
+  "floor": ":/resources/levels/invertedFloor1.png",
+  "gift": {
+    "on_scene": true,
+    "pixmap": ":/resources/chests/trojan_horse.png",
+    "x_pos": 675,
+    "y_pos": 265
+  },
+  "door": {
+    "on_scene": true,
+    "pixmapClose": ":/resources/doors/close_door.png",
+    "pixmapOpen": ":/resources/doors/open_door.png",
+    "x_pos_close": 320,
+    "y_pos_close": 215,
+    "x_pos_open": 265
+  },
+  "chest": {
+    "on_scene": true,
+    "pixmapClose": ":/resources/chests/close.png",
+    "pixmapOpen": ":/resources/chests/open.png",
+    "x_pos": 745,
+    "y_pos": 330
+  },
+  "inventory": {
+     "on_scene": true,
+     "pixmap": ":/resources/inventory/inventory.png",
+     "x_pos": 1110,
+     "y_pos": 200
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "background": ":/resources/levels/level_04.png",
+  "floor": ":/resources/levels/invertedFloor4.png",
+  "gift": {
+    "on_scene": false
+  }, 
+  "door": {
+    "on_scene": true,
+    "pixmapClose": ":/resources/doors/close_door.png",
+    "pixmapOpen": ":/resources/doors/open_door.png",
+    "x_pos_close":380,
+    "y_pos_close": 228,
+    "x_pos_open": 317
+  }, 
+  "chest": {
+    "on_scene": true,
+    "pixmapClose": ":/resources/chests/close.png",
+    "pixmapOpen": ":/resources/chests/open.png",
+    "x_pos": 845,
+    "y_pos": 330
+  },
+  "inventory": {
+     "on_scene": true,
+     "pixmap": ":/resources/inventory/inventory.png",
+     "x_pos": 1110,
+     "y_pos": 200
+  }
+}
